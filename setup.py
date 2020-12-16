@@ -97,7 +97,7 @@ setuptools.setup(
     ],
     install_requires=[
         'numpy>=1.18.0',
-        'pygame>=2.0.0.dev10'
+        'pygame>=2.0.0'
     ],
     python_requires='>=3.6',
     classifiers=[
